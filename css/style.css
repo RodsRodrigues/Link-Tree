@@ -46,11 +46,13 @@ body {
     display: flex;
     align-items: center;
     margin: 20px 0px 15px;
+    text-decoration: none;
 }
 
 #insta:hover {
     color: var(--pink);
     font-weight: bold;
+    text-decoration: underline;
 }
 
 #links {
@@ -79,6 +81,7 @@ body {
     color: #6517ad;
     text-decoration: underline;
     cursor: pointer;
+    border: 2px solid #6517ad;
 }
 
 
@@ -97,4 +100,8 @@ footer {
     text-align: center;
     font-family: Inter, serif;
     font-size: 13px;
+}
+
+footer strong {
+    font-weight: bold;
 }
