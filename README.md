@@ -1,2 +1,2 @@
 # Link-Tree
-- Creating a link tree
+- Creating a link tree for my socials
